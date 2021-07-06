@@ -9,3 +9,7 @@ This is a small modification of the example `worms.py` from [blessed](https://gi
 3. Sync the requirements `python -m pipenv sync`
 4. Run `python worms.py` and play.
 
+### Example
+
+![worms gif]("./imgs/example.gif")
+
