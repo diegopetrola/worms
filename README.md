@@ -11,5 +11,5 @@ This is a small modification of the example `worms.py` from [blessed](https://gi
 
 ### Example
 
-![worms gif]("./imgs/example.gif")
+![worms gif](https://raw.githubusercontent.com/diegopetrola/worms/master/imgs/example.gif)
 
